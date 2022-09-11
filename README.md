@@ -23,13 +23,16 @@ This work opens the door for future research on how temporal gradients within th
 
 ## Software implementation
 
-All source code used to generate the results in the paper are in the repository. The codes are run inside MATLAB. You need a working MATLAB software to run the codes.Below is the detail discription of each file.  
+All source code used to generate the results in the paper are in the repository. The codes are run inside MATLAB. You need a working MATLAB software to run the codes. Moreover, several functions (MRIread, MRIwrite, etc.) are used to read and write MRI images, which can be dounloaded from the following link:
+https://github.com/fieldtrip/fieldtrip/tree/master/external/freesurfer  
+
+Below is the detail discription of each file.  
 #### AC_generator.m:
 This functuion calculate voxel-wise autocorrelation (AC) of fMRI data within a mask and generate a 4D map of AC values and a 3D map of clusters.  
 ####  Jaccard.m: 
 This function gets two 3D maps and calculate the Jaccard coefficient that shows the overlap between the two input maps.  
 #### community_louvain.m: 
-This function is used to perform clustering. This code is borrowed from Mika Rubinov, U Cambridge 2015-2016.  
+This function is used to perform clustering. This code is borrowed from Mika Rubinov, U Cambridge 2015-2016. https://github.com/neuro-data-science/neuro_data_science/blob/master/matlab/basset_connectivity/community_louvain.m
 #### Individual_Runner.m: 
 This code is a template to create AC value and cluster maps from the fMRI data for each individual dataset. This code should be modified based on the location of the data. 
 #### GroupAverage_Runner.m:
