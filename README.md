@@ -5,6 +5,7 @@ Bouffard NR, Golestani A, Brunec IK, Bellana B, Park JY, Barense MD, Moscovitch 
 Single voxel autocorrelation uncovers gradients of temporal dynamics in the hippocampus and entorhinal cortex during rest and navigation. 
 Cereb Cortex. 2023 Mar 10;33(6):3265-3283. doi: 10.1093/cercor/bhac480. PMID: 36573396; PMCID: PMC10388386.
 
+https://academic.oup.com/cercor/article/33/6/3265/6959310
 
 
 ## Abstract
