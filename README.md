@@ -44,4 +44,4 @@ This code is a template that calculates Jaccard coefficient of the ROIs. It calc
 ## License
 
 You can freely use and modify the code, without warranty, so long as you provide attribution to the authors and reference the manuscript.
-The authors reserve the rights to the article content, which is currently submitted for publication in the Cerebral Cortex.
+The authors reserve the rights to the article content, which is publication in the Cerebral Cortex.
