@@ -1,11 +1,11 @@
 # Single-Voxel Autocorrelation
 This repository consists of the codes related to the following paper:
 
-Single voxel autocorrelation uncovers gradients of temporal dynamics in the hippocampus and entorhinal cortex during rest and navigation
+Bouffard NR, Golestani A, Brunec IK, Bellana B, Park JY, Barense MD, Moscovitch M. 
+Single voxel autocorrelation uncovers gradients of temporal dynamics in the hippocampus and entorhinal cortex during rest and navigation. 
+Cereb Cortex. 2023 Mar 10;33(6):3265-3283. doi: 10.1093/cercor/bhac480. PMID: 36573396; PMCID: PMC10388386.
 
-Nichole R. Bouffard, Ali Golestani, Iva K. Brunec, Buddhika Bellana, Jun Young Park, Morgan D. Barense, Morris Moscovitch
 
-Submitted to Cerebral Cortex
 
 ## Abstract
 
